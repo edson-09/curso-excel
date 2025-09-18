@@ -1,1 +1,4 @@
 @import "tailwindcss";
+.pattern {
+  background: url("../img/textura.png");
+}
