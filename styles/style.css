@@ -6,3 +6,7 @@
 * {
   font-family: "Poppins";
 }
+
+#hero {
+    background-image: url('../img/background.jpg');
+}
