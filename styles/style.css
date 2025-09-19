@@ -2,3 +2,7 @@
 .pattern {
   background: url("../img/textura.png");
 }
+
+* {
+  font-family: "Poppins";
+}
